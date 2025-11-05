@@ -1,4 +1,4 @@
-# 🤖 Classification automatique des Biens de Consommation
+# 🤖 Classification Automatique des Biens de Consommation
 
 **Classification automatique de produits e-commerce à partir de descriptions textuelles et d’images.**  
 Projet de Data Science visant à développer un moteur d’attribution de catégories capable d’identifier automatiquement le type de produit à partir de ses métadonnées.
